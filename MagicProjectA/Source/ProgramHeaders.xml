@@ -46,6 +46,44 @@
       </Header>
       <SourceFileTimeStamp _date="739902" _time="29940" date="13/10/2026" time="08:19:00"/>
     </Program>
+    <Program>
+      <Header Description="MagicB" ISEMPTY_TSK="1" ISN_2="1" LastIsn="1" id="1048580">
+        <LastModified date="00/00/0000" time="00:00:00"/>
+        <ExecutionRight comp="-1"/>
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <ParametersAttributes/>
+        </ReturnValue>
+        <SqlWhereExist val="N"/>
+        <TaskType val="O"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <FormType val="N"/>
+        <DotNetObjectExists val="N"/>
+      </Header>
+      <SourceFileTimeStamp _date="739902" _time="32601" date="13/10/2026" time="09:03:21"/>
+    </Program>
+    <Program>
+      <Header Description="MagicC" ISEMPTY_TSK="1" ISN_2="1" LastIsn="1" id="1048579">
+        <LastModified date="00/00/0000" time="00:00:00"/>
+        <ExecutionRight comp="-1"/>
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <ParametersAttributes/>
+        </ReturnValue>
+        <SqlWhereExist val="N"/>
+        <TaskType val="O"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <FormType val="N"/>
+        <DotNetObjectExists val="N"/>
+      </Header>
+      <SourceFileTimeStamp _date="739902" _time="32608" date="13/10/2026" time="09:03:28"/>
+    </Program>
   </ProgramsRepositoryHeaders>
 
 </Application>
